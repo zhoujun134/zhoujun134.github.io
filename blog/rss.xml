@@ -4,11 +4,30 @@
         <title>Z 不殊</title>
         <link>https://zbus.top/blog</link>
         <description>Z 不殊 Blog</description>
-        <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
         <copyright>Copyright © 2024 愧怍 Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;闽ICP备2020017848号-2&lt;/a&gt;&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[生活本是平静，过多的焦虑，无非是一种内耗。]]></title>
+            <link>https://zbus.top/blog/guo-duo-de-jiao-nv-shi-nei-hao</link>
+            <guid>https://zbus.top/blog/guo-duo-de-jiao-nv-shi-nei-hao</guid>
+            <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[img]]></description>
+            <content:encoded><![CDATA[<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202407070935530.jpg" alt="img" class="img_CujE"></div><p></p>
+<p>这一周，博客的事情算是告一段落了，后面想通了，博客存在的意义，无非是承载知识和想法的记忆体，太过的折腾其实也没有多大的意义，能用得爽即可。</p>
+<p>从 docusaurus 到 vue3 + ts 自行实现，再到回归 docusaurus，想想这一路，后端知识没学多少，前端样式，框架倒是学了不少，这也算一种收获，和自己当初选择学习 vue3 的初衷也不谋而合，算是初步入门 vue3 ，能够利用它构建一些自己想要的页面信息。</p>
+<p>《[Java 并发编程之美--翟陆续 薛宾田](<a href="https://weread.qq.com/web/search/books?author=%E7%BF%9F%E9%99%86%E7%BB%AD" target="_blank" rel="noopener noreferrer">https://weread.qq.com/web/search/books?author=翟陆续</a> 薛宾田&amp;ii=81c32b507184869281c2a23)》目前只是看完了前面的几章内容，重新再次学习一遍多线程的知识，让我更加深入的理解了平时用到的一些线程知识，安安静静的去看一本书，有所收获的感觉真的很不错的。接下来的一段时间，在工作之余，继续保持对齐学习，并总结知识脉络，方便后面学习和记忆。后面这块儿的知识将主要记录在 <a href="https://zbus.top/docs/category/java-%E5%9F%BA%E7%A1%80" target="_blank" rel="noopener noreferrer">这里</a></p>
+<p>工作这段时间，其实发现，目前我们这边的技术栈不算新颖，主要是以业务为驱动去实现一些业务上的功能，在这种背景下，我常常在想，如果一味的深入业务，最终也不过是深入了业务领域，对于技术能力的提升，可能并不会有多大的帮助，这两年的时间，也确实证实了这一点。</p>
+<p>那么处于这种背景下，我该如何更一进步的学习相关的后端知识，提升自己的硬实力呢？我想应该是，打好基础，面向场景学习可能将是一个不错的方法，就是面向企业的应用场景，学习相关的解决方案，并总结和验证。</p>
+<p>基础知识的重要性，不言而喻，在本科期间，还算是花了很多时间去学习编程相关的基础知识，大多数时间都能沉下心来，好好研究一门技术。到了研究生，其实是比较迷茫的，学校其实更加专注于学术的研究，什么东西都是以学术为主，评优毕设什么的，都是必须要发论文。可是作为一名专硕的学生，真的只是想学习更多技术知识，而不是天天沉浸在论文的苦海之中，当然也不怪学校，自己在这种不紧不慢的生活状态下，把更多的时间沉浸在学业（学术）上了，而对于自己想要学习什么，想要得到什么，真的没有细细地去思考过，这也许就是我觉得我的研究生没有学到什么东西的原因吧。</p>
+<p>到了出身社会，到了目前的岗位，更多的业务驱动的岗位，前半年，可能更多的熟悉新的环境，想着能够大显身手一把，到年底，部门调整之后，又是一个新的环境，整整一年，23年是忙忙碌碌度过的，自己感觉确实是做了很多的事情。在24年晋升成功，但是却也因为部门调整，又回到了23年的部门。这个其实这几个月还是有点不适应的，毕竟很多业务目前我已经不熟悉了，工作嘛，也正常，这两个月下来也还好。现在这边需求来说，相对23年真的是直线下降。很多时候都需要自己去找事情做。这也是最近有时间倒腾自己的博客的原因。</p>
+<p>对于目前的现状，有了更多的时间，那么补充自己的基础知识，提升一些场景应用的能力，是目前的小规划，比如最近准备重拾  kafka 消息基础知识，并基于它实现一些异步任务的逻辑搞懂。</p>
+<p>好啦，今天就啰嗦到这里吧，其实没必要天天去焦虑，好好按照自己的想法去做就好了，该来的终究会来，沉下心来，认认真真地去做一件事，对了，这周开始，已经锻炼有一周了，身体健康，大家真的要重视起来。</p>
+<p>我是 Z 不殊，一名想回成都的北漂患者，感谢您的观看，欢迎大家留言来和我交流。</p>]]></content:encoded>
+            <category>随笔</category>
+        </item>
         <item>
             <title><![CDATA[回过头来，还是 docusaurus 香！]]></title>
             <link>https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang</link>
@@ -29,7 +48,7 @@
 <p>在基于 VUE3+ ts 进行博客系统构建的时候，其实初心就是带着学习的目的进行的，在大体学习了 Vue3 + ts 进行项目开发，和博客系统的实现之后，就对于页面的要求越发的严苛，这已经不是我的初衷了。可能在自己目标方向上需要投入更多的时间，对于这部分内容，我也会持续的进行输出和学习。</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="docusaurus-博客迁移进展">docusaurus 博客迁移进展<a class="hash-link" aria-label="docusaurus 博客迁移进展的直接链接" title="docusaurus 博客迁移进展的直接链接" href="https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang#docusaurus-%E5%8D%9A%E5%AE%A2%E8%BF%81%E7%A7%BB%E8%BF%9B%E5%B1%95">​</a></h2>
 <p>目前使用 docusaurus 已经基本上完成了整体前端页面的样式调整。比较喜欢 docusaurus 的风格，准备后面持续使用它进行文档的归类和博客的日记。在使用 docusaurus 构建自己的博客时，参考了 <a href="https://kuizuo.cn/" target="_blank" rel="noopener noreferrer">愧怍</a> 的博客设计，但是也进行了一些自定义的东西，比如，评论列表，提交，友链的管理，代码折叠等功能的实现。当然也欢迎大家 fork 我的博客源码。<a href="https://github.com/zhoujun134/zj-docusaurus-blogs" target="_blank" rel="noopener noreferrer">基于 Docusaurus 静态网站生成器实现个人博客</a></p>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="持续学习">持续学习<a class="hash-link" aria-label="持续学习的直接链接" title="持续学习的直接链接" href="https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang#%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="持续学习">持续学习<a class="hash-link" aria-label="持续�学习的直接链接" title="持续学习的直接链接" href="https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang#%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0">​</a></h2>
 <p>接下来的一周，好好利用网络，不要沉迷于网络游戏，多看看书，做一些知识的沉淀，现在人工智能真的很发达，想要做什么都可以大胆的去做就好了。</p>
 <p>利用好微信读书，在接下来的一周，争取把 《[Java 并发编程之美--翟陆续 薛宾田](<a href="https://weread.qq.com/web/search/books?author=%E7%BF%9F%E9%99%86%E7%BB%AD" target="_blank" rel="noopener noreferrer">https://weread.qq.com/web/search/books?author=翟陆续</a> 薛宾田&amp;ii=81c32b507184869281c2a23)》这本书看完。随时记录自己的工作和学习计划。开始总结和归档自己的知识点。</p>
 <p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202406232243440.jpg" alt="img" class="img_CujE"></div><p></p>]]></content:encoded>
@@ -112,7 +131,7 @@
 <li>js 和 ts 的相关知识，对于 js 的理解比较少，今年需要学习一些基本的使用。</li>
 <li>Vue3 希望能够学习到熟练使用的程度。</li>
 </ul>
-<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="关于人工智能ai-时代必须了解�的一些知识">关于人工智能，AI 时代，必须了解的一些知识<a class="hash-link" aria-label="关于人工智能，AI 时代，必须了解的一些知识的直接链接" title="关于人工智能，AI 时代，必须了解的一些知识的直接链接" href="https://zbus.top/blog/cong-lai-bu-hui-tou-%EF%BC%8Czhi-xiang-qian-er-xing----2024%20xin-de-yi-nian#%E5%85%B3%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDai-%E6%97%B6%E4%BB%A3%E5%BF%85%E9%A1%BB%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86">​</a></h2>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="关于人工智能ai-时代必须了解的一些知识">关于人工智能，AI 时代，必须了解的一些知识<a class="hash-link" aria-label="关于人工智能，AI 时代，必须了解的一些知识的直接链接" title="关于人工智能，AI 时代，必须了解的一些知识的直接链接" href="https://zbus.top/blog/cong-lai-bu-hui-tou-%EF%BC%8Czhi-xiang-qian-er-xing----2024%20xin-de-yi-nian#%E5%85%B3%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDai-%E6%97%B6%E4%BB%A3%E5%BF%85%E9%A1%BB%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86">​</a></h2>
 <p>AI 的兴起，是让我比较焦虑的一年，焦虑 AI 到来了，工作可能会受到影响，感觉看不到希望，又是不太喜欢学习机器学习相关的知识，这个想法主要是因为读研时，导师想让我们发论文，总是推着往人工智能上靠，总是形成了一些不好的记忆。</p>
 <p><strong>逃避终究不是最终的归宿</strong>，在 2024年，我希望我周末抽出 4 ~ 5 小时，学习人工智能相关的基础知识，并且争取能够有一些进展。</p>
 <ul>
