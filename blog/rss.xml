@@ -63,7 +63,7 @@
             <guid>https://zbus.top/blog/guo-duo-de-jiao-nv-shi-nei-hao</guid>
             <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[img]]></description>
-            <content:encoded><![CDATA[<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202407070935530.jpg" alt="img" class="img_CujE"></div><p></p>
+            <content:encoded><![CDATA[<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="img" src="https://zbus.top/assets/images/blog202407070935530-de09ae3900335096247d65fa6402137e.png" width="3840" height="2160" class="img_CujE"></div><p></p>
 <p>这一周，博客的事情算是告一段落了，后面想通了，博客存在的意义，无非是承载知识和想法的记忆体，太过的折腾其实也没有多大的意义，能用得爽即可。</p>
 <p>从 docusaurus 到 vue3 + ts 自行实现，再到回归 docusaurus，想想这一路，后端知识没学多少，前端样式，框架倒是学了不少，这也算一种收获，和自己当初选择学习 vue3 的初衷也不谋而合，算是初步入门 vue3 ，能够利用它构建一些自己想要的页面信息。</p>
 <p>《[Java 并发编程之美--翟陆续 薛宾田](<a href="https://weread.qq.com/web/search/books?author=%E7%BF%9F%E9%99%86%E7%BB%AD" target="_blank" rel="noopener noreferrer">https://weread.qq.com/web/search/books?author=翟陆续</a> 薛宾田&amp;ii=81c32b507184869281c2a23)》目前只是看完了前面的几章内容，重新再次学习一遍多线程的知识，让我更加深入的理解了平时用到的一些线程知识，安安静静的去看一本书，有所收获的感觉真的很不错的。接下来的一段时间，在工作之余，继续保持对齐学习，并总结知识脉络，方便后面学习和记忆。后面这块儿的知识将主要记录在 <a href="https://zbus.top/docs/category/java-%E5%9F%BA%E7%A1%80" target="_blank" rel="noopener noreferrer">这里</a></p>
@@ -82,7 +82,7 @@
             <guid>https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang</guid>
             <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[img]]></description>
-            <content:encoded><![CDATA[<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202406232242059.jpg" alt="img" class="img_CujE"></div><p></p>
+            <content:encoded><![CDATA[<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="img" src="https://zbus.top/assets/images/blog202406232242059-4f1da5b044909101fe5e30c47a170cf6.png" width="3840" height="2160" class="img_CujE"></div><p></p>
 <p>这一周很快就过去了，回望这一周，做了些什么内容呢</p>
 <ul>
 <li>博客迁移，从自己写的 vue3 + ts 的博客，迁移到 docusaurus，为什么迁移呢，其实就是瞎折腾，后面我会讲到原因。</li>
@@ -99,7 +99,7 @@
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="持续学习">持续学习<a class="hash-link" aria-label="持续学习的直接链接" title="持续学习的直接链接" href="https://zbus.top/blog/hui-guo-tou-hai-shi-docusaurus-xiang#%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0">​</a></h2>
 <p>接下来的一周，好好利用网络，不要沉迷于网络游戏，多看看书，做一些知识的沉淀，现在人工智能真的很发达，想要做什么都可以大胆的去做就好了。</p>
 <p>利用好微信读书，在接下来的一周，争取把 《[Java 并发编程之美--翟陆续 薛宾田](<a href="https://weread.qq.com/web/search/books?author=%E7%BF%9F%E9%99%86%E7%BB%AD" target="_blank" rel="noopener noreferrer">https://weread.qq.com/web/search/books?author=翟陆续</a> 薛宾田&amp;ii=81c32b507184869281c2a23)》这本书看完。随时记录自己的工作和学习计划。开始总结和归档自己的知识点。</p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202406232243440.jpg" alt="img" class="img_CujE"></div><p></p>]]></content:encoded>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="img" src="https://zbus.top/assets/images/blog202406232243440-bbd0917d2e2e42e773a366f67ee785e2.png" width="3840" height="2160" class="img_CujE"></div><p></p>]]></content:encoded>
             <category>随笔</category>
         </item>
         <item>
@@ -109,7 +109,7 @@
             <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[作者分享了自己创建博客的经历，尝试过多个开源博客项目，但都存在一些限制和不喜欢的地方，于是决定自己书写一个博客。经过努力，终于完成了第一版的系统，基于 Vue3 + TypeScript + Element-Plus 构建前端，Java 语言编写的 SpringBoot 构建后端，数据库采用 Mysql + Redis。博客已经实现了多个功能，如文章列表、归档、文章分类卡片等，未来还计划优化页面渲染、访问数统计、评论提交限制等功能。]]></description>
             <content:encoded><![CDATA[<p>作者分享了自己创建博客的经历，尝试过多个开源博客项目，但都存在一些限制和不喜欢的地方，于是决定自己书写一个博客。经过努力，终于完成了第一版的系统，基于 Vue3 + TypeScript + Element-Plus 构建前端，Java 语言编写的 SpringBoot 构建后端，数据库采用 Mysql + Redis。博客已经实现了多个功能，如文章列表、归档、文章分类卡片等，未来还计划优化页面渲染、访问数统计、评论提交限制等功能。</p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202405070816095.jpg" alt="img" class="img_CujE"></div><p></p>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="img" src="https://zbus.top/assets/images/blog202405070816095-e7438876a22ab77f6c56816b34ac865d.png" width="2560" height="1440" class="img_CujE"></div><p></p>
 <p>👨‍💻 对于博客的建设，经历了一段时间的折腾，反反复复可能都不能满意，其中尝试过，WordPress， hexo, docusaurus, halo 等这些开源的博客项目， 但是都多多少少有一些限制和不喜欢的地方，最终还是放弃了它们。</p>
 <p>因此, 便有了自己书写一个博客的想法。经过这段时间的倒腾，也算是把第一版的系统样子做了出来， 其中从前端的不会，到各种找资源，各种学习，css 的一些样式真的比较生疏，为什么要倒腾？ 一是想自学一下前端，方便以后自己开发一些页面，二是为了做一些自定义的内容，方便自己以后能够将自己想表达的东西，呈现出来。因此，便有了这个站点。</p>
 <p><strong>前端:</strong> 基于 vue3 + typeScript + element-plus 构建。<a href="https://zbus.top/" target="_blank" rel="noopener noreferrer">点击访问源代码</a></p>
@@ -146,8 +146,7 @@
 <li class="task-list-item"><input type="checkbox" disabled=""> <!-- -->接入 AI 的能力，动态渲染部分内容。</li>
 </ul>
 <p>❤️ ❤️ ❤️</p>
-<p>以上就是当前这个项目所实现的一部分内容，欢迎大家评论和指正！</p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202405070838514.jpg" alt="img" class="img_CujE"></div><p></p>]]></content:encoded>
+<p>以上就是当前这个项目所实现的一部分内容，欢迎大家评论和指正！</p>]]></content:encoded>
             <category>随笔</category>
         </item>
         <item>
@@ -157,7 +156,7 @@
             <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[作者在文章中总结了2023年的工作和学习情况，并对2024年的学习和生活计划进行了规划。计划包括深入学习后端开发、前端开发、人工智能相关知识，并且关注生活中的健康、存钱、旅游和爱情方面。]]></description>
             <content:encoded><![CDATA[<p>作者在文章中总结了2023年的工作和学习情况，并对2024年的学习和生活计划进行了规划。计划包括深入学习后端开发、前端开发、人工智能相关知识，并且关注生活中的健康、存钱、旅游和爱情方面。</p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202402181823144.jpg" alt="213870" class="img_CujE"></div><p></p>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="213870" src="https://zbus.top/assets/images/blog202402181823144-a9934036dcbd31ce0784f7c99783b810.jpg" width="1920" height="1200" class="img_CujE"></div><p></p>
 <p>2023年，工作占据了我大半的时间，有时候熬夜加班加点，就是为了完成一个功能，没有真正好好地投入一段时间来沉下心，去总结自己的知识框架，有一个明确清晰的学习计划。在新的一年，希望自己能够重新拾起丢失的计划，多做点有意义的事情。下面从几个方面说一下：</p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="关于后端-主线任务">关于后端: 主线任务<a class="hash-link" aria-label="关于后端: 主线任务的直接链接" title="关于后端: 主线任务的直接链接" href="https://zbus.top/blog/cong-lai-bu-hui-tou-%EF%BC%8Czhi-xiang-qian-er-xing----2024%20xin-de-yi-nian#%E5%85%B3%E4%BA%8E%E5%90%8E%E7%AB%AF-%E4%B8%BB%E7%BA%BF%E4%BB%BB%E5%8A%A1">​</a></h2>
 <p>无论是工作还是自己的角色定位，从事的都是后端研发相关的工作，一直以来都是以 java 语言为主进行的相关学习，python，scala 和 go 都有多多少少的学习，但是疏忽于使用场景的少，所以没有怎么深入。这几年更是因为工作和读研期间的论文压力，没有好好地整理和学习。在 2024年，无论未来的路怎样，后端的深入学习都是必不可少的，虽然语言只是工具，但一些必要的技能还是需要掌握。</p>
@@ -193,16 +192,15 @@
 <li>旅游，希望 2024 年仍然能够和喜欢的人（鑫鑫）去 2 ~ 3个不一样的城市。</li>
 <li>健康，一切的一切，都得是健康的前提。</li>
 </ol>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202402181827574.png" alt="image-20240218182756533" class="img_CujE"></div><p></p>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="image-20240218182756533" src="https://zbus.top/assets/images/blog202402181827574-54e50aa51df8dc8a28a6152872fcf320.png" width="1920" height="1200" class="img_CujE"></div><p></p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="关于爱情">关于爱情<a class="hash-link" aria-label="关于爱情的直接链接" title="关于爱情的直接链接" href="https://zbus.top/blog/cong-lai-bu-hui-tou-%EF%BC%8Czhi-xiang-qian-er-xing----2024%20xin-de-yi-nian#%E5%85%B3%E4%BA%8E%E7%88%B1%E6%83%85">​</a></h2>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202402182214697.png" alt="image-20240218221432671" class="img_CujE"></div><p></p>
 <ol>
 <li>希望我和鑫鑫的长跑能够有一个完满的结果。</li>
 <li>今年计划两个人的距离拉近一点。</li>
 <li>希望今年你少点哭哭，多点开心，放慢脚步，一步一步来，我们终究会有所得到的。</li>
 <li>争取去 2 ~ 3 次丽江，去你工作的地方看看。</li>
 </ol>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202402182216206.png" alt="image-20240218221618167" class="img_CujE"></div><p></p>]]></content:encoded>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="image-20240218221618167" src="https://zbus.top/assets/images/blog202402182216206-9e93f51e30c891d5ea5edc07695a6402.png" width="3024" height="4032" class="img_CujE"></div><p></p>]]></content:encoded>
             <category>随笔</category>
             <category>杂谈</category>
         </item>
@@ -213,7 +211,7 @@
             <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[作者介绍自己是Z不殊，来自中国，坐标北京，老家四川，是一名编程爱好者，希望为开源社区做出贡献。作者喜欢学习，希望在有限的时间内学到无限的可能，目前主攻后端开发，特别是Java，并将长期发展下去。作者也喜欢分享自己的学习过程和经验，希望能够帮助他人。同时，作者也介绍了自己的博客站点，希望在这里记录自己的学习和生活，督促自己的成长。]]></description>
             <content:encoded><![CDATA[<p>作者介绍自己是Z不殊，来自中国，坐标北京，老家四川，是一名编程爱好者，希望为开源社区做出贡献。作者喜欢学习，希望在有限的时间内学到无限的可能，目前主攻后端开发，特别是Java，并将长期发展下去。作者也喜欢分享自己的学习过程和经验，希望能够帮助他人。同时，作者也介绍了自己的博客站点，希望在这里记录自己的学习和生活，督促自己的成长。</p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top//zbus/blog/202309022259194.webp" alt="" class="img_CujE"></div><p></p>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://zbus.top/assets/images/202309022259194-c760ac7e7798fbcf51636ca2d41bb87a.webp" width="3840" height="2160" class="img_CujE"></div><p></p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="-你好-我是z不殊">👋 你好! 我是Z不殊<a class="hash-link" aria-label="👋 你好! 我是Z不殊的直接链接" title="👋 你好! 我是Z不殊的直接链接" href="https://zbus.top/blog/kuai-pao-xiao-huo-che---dan-sheng-la#-%E4%BD%A0%E5%A5%BD-%E6%88%91%E6%98%AFz%E4%B8%8D%E6%AE%8A">​</a></h2>
 <p>🧑 坐标北京，老家 四川，出入职场的小白，来自中国</p>
 <p>👨‍💻 编程爱好者，编写所感兴趣的项目，希望能为开源社区做出一份贡献</p>
@@ -229,7 +227,7 @@
 就是不服，不服命运，不服自己的处境，不服自己不会！</p>
 <p>别人能做到的，自己也一定能行，所以，不管怎样，都要相信自己。对我来说，真的，除了健康，一切都是可有可无的，你只需要按照你的想法去活。工作，生活，可能真的会磨灭你很多的稚气。但仍然请你保持你的初心，一生那么多，多要做点自己喜欢做的事情。</p>
 <p><strong>很多时候，你只需要少玩一把游戏，少刷一下视频，真的也能有很多的时间去做自己想要的事情。</strong></p>
-<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top/zbus/blog202403150806600.png" alt="image-20240315080632565" class="img_CujE"></div><p></p>
+<p></p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" alt="image-20240315080632565" src="https://zbus.top/assets/images/blog202403150806600-a5e4d283c3b62698d8488de50d2fc628.png" width="2912" height="1632" class="img_CujE"></div><p></p>
 <h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="-关于这个站点">🤔 关于这个站点<a class="hash-link" aria-label="🤔 关于这个站点的直接链接" title="🤔 关于这个站点的直接链接" href="https://zbus.top/blog/kuai-pao-xiao-huo-che---dan-sheng-la#-%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%AB%99%E7%82%B9">​</a></h2>
 <p>不想再做过多的折腾，从今天开始，好好输出自己的博客，无论是技术，还是生活。</p>
 <p>zbus 最初构建于 docusaurus ，并在 docusaurus 上遇到了很多有趣的朋友，有时候博客的存在只是为了记录，写博客，可以让自己梳理清自己想要表达什么，记录日常的所想，日常的知识盲区。本站点构建于 Halo 博客，主要用于日常的笔记和相关吐糟，有任何问题欢迎留言。</p>
@@ -247,7 +245,7 @@
             <description><![CDATA[作为一名初入职场的新人，面临AI时代的挑战和互联网环境的不确定性，感到焦虑和迷茫。然而，关键是积极主动，专注于当前工作，深入思考和努力做好当前任务，而不是被大环境的不景气所左右。]]></description>
             <content:encoded><![CDATA[<p>作为一名初入职场的新人，面临AI时代的挑战和互联网环境的不确定性，感到焦虑和迷茫。然而，关键是积极主动，专注于当前工作，深入思考和努力做好当前任务，而不是被大环境的不景气所左右。</p>
 <p>作为一名初入职场的新人，说实话，很焦虑，有时候不知道自己的目标和现在的工作有着怎样的鸿沟，AI 时代的到来，互联网环境趋于饱和和稳定，如何更好的生存下去，常常是困扰我的一些问题。
-</p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://img.zbus.top//zbus/blog/202309270805206.webp" alt="" class="img_CujE"></div>
+</p><div class="zjImgContainer_kJPg"><img decoding="async" loading="lazy" src="https://zbus.top/assets/images/202309270805206-b624a188abb5d95c108bf8fe5b7a9372.webp" width="3840" height="2160" class="img_CujE"></div>
 前段时间听说，最近互联网又有不好的消息传来，cy 风暴，行业不景气，等等话语，不确定性更加加深了我对互联网环境的想法。<p></p>
 <p>听到这个消息还真是不知如何去表达自己内心的想法，我想说的，大环境的不景气，有时候真的不是我们能够所左右的，能做的更多应该是积极主动的将自己的现有工作做好，有深入，有思考的去做一些东西。</p>]]></content:encoded>
             <category>随笔</category>
